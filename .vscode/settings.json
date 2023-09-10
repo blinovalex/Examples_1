@@ -1,0 +1,5 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.find.autoFindInSelection": "always",
+    "extensions.experimental.deferredStartupFinishedActivation": true
+}

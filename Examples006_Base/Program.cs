@@ -1,4 +1,5 @@
-﻿int a = 1;
+﻿using System;
+int a = 1;
 int b = 2;
 int c = 6;
 int d = 8;
@@ -13,4 +14,5 @@ if (e > max ) max = e;
 
 Console.Write("max = ");
 Console.WriteLine(max);
+
 

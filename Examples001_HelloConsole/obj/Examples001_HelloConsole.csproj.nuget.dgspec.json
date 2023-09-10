@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Gee\\Examples_1\\Examples001_HelloConsole\\Examples001_HelloConsole.csproj": {}
+    "d:\\Gee\\Examples_1\\Examples001_HelloConsole\\Examples001_HelloConsole.csproj": {}
   },
   "projects": {
-    "D:\\Gee\\Examples_1\\Examples001_HelloConsole\\Examples001_HelloConsole.csproj": {
+    "d:\\Gee\\Examples_1\\Examples001_HelloConsole\\Examples001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Gee\\Examples_1\\Examples001_HelloConsole\\Examples001_HelloConsole.csproj",
+        "projectUniqueName": "d:\\Gee\\Examples_1\\Examples001_HelloConsole\\Examples001_HelloConsole.csproj",
         "projectName": "Examples001_HelloConsole",
-        "projectPath": "D:\\Gee\\Examples_1\\Examples001_HelloConsole\\Examples001_HelloConsole.csproj",
+        "projectPath": "d:\\Gee\\Examples_1\\Examples001_HelloConsole\\Examples001_HelloConsole.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Gee\\Examples_1\\Examples001_HelloConsole\\obj\\",
+        "outputPath": "d:\\Gee\\Examples_1\\Examples001_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
